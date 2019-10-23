@@ -38,7 +38,7 @@
     "express-boom": "^2.0.0",
     "joi": "^13.3.0",
     "jsonwebtoken": "^8.3.0",
-    "knex": "^0.15.2",
+    "knex": "^0.19.5",
     "knex-migrate": "^1.6.1",
     "lodash": "^4.17.11",
     "method-override": "^2.3.10",
